@@ -2,6 +2,9 @@
 
 ![plot](./Screenshots/Sha256_main.png)
 
+## WARNING:
+This repository was the first version of Sha256, for a newer one check [RedLibrary](https://github.com/Red-company/RedLibrary).
+
 ## What is it?
 
 This is an implementation and console application of Sha256 hash function, one of the most famous hash function. It is a part of [RedLibrary](https://github.com/Red-company/RedLibrary).
