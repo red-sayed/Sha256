@@ -20,7 +20,7 @@ const std::string Sha256Hash(const std::string_view input);
 
 ## Tech notes:
 
-* It also understands all ASCII characters.
+* It understands all ASCII characters.
 * It's rather fast.
 
 ##
