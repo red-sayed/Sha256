@@ -1,4 +1,4 @@
-# Sha256 ![](https://img.shields.io/apm/l/vim-mode)
+# ☝️Sha256 ![](https://img.shields.io/apm/l/vim-mode)
 
 ![plot](./Screenshots/Sha256_main.png)
 
