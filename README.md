@@ -23,5 +23,8 @@ const std::string Sha256Hash(const std::string_view input);
 * It understands all _ASCII_ characters.
 * It's rather fast.
 
+## Example:
+
+![plot](./Screenshots/Sha256_enc.png)
 ##
 All material in this repository is in the public domain.
