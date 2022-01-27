@@ -15,7 +15,7 @@ int main() {
         getline(std::cin, inp);
         std::cout << std::endl;
 
-        std::cout << "[\033[93mSha256\033[0m] \033[4mEncrypted message:\033[0m" << std::endl << std::endl << Red::Sha256Hash(inp);
+        std::cout << "[\033[93mSha256\033[0m] \033[4mEncrypted message:\033[0m" << std::endl << std::endl << *Red::Sha256Hash(&inp);
         std::cout << std::endl << std::endl << std::endl << "Press Enter to continue.";
 
         std::cin.get();
