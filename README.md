@@ -2,9 +2,6 @@
 
 ![plot](./Screenshots/Sha256_main.png)
 
-## WARNING:
-This repository was the first version of _Sha256_, for a newer one check [_RedLibrary_](https://github.com/Red-company/RedLibrary).
-
 ## What is it?
 
 This is an implementation and console application of _Sha256_ hash function, one of the most famous hash function. It is a part of [_RedLibrary_](https://github.com/Red-company/RedLibrary).
@@ -15,7 +12,7 @@ Function prototype:
 
 ```C
 // Get sha256 hash.
-const std::string Sha256Hash(const std::string_view input);
+std::string * Sha256Hash(std::string * input);
 ```
 
 ## Tech notes:
