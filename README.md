@@ -17,7 +17,7 @@ std::string * Sha256Hash(std::string * input);
 
 ## What about speed?
 
-Speed test can be found [_here_](https://github.com/Red-Laboratory/exp1_sha256-speedtest)
+Speed test can be found [_here._](https://github.com/Red-Laboratory/exp1_sha256-speedtest)
 
 ## Tech notes:
 
